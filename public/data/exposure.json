@@ -1,0 +1,92 @@
+[
+  {
+    "District":"West Champaran",
+    "Distance from Source (km)":267.5,
+    "Arrival Lag (hrs)":14.1,
+    "Estimated Arrival (local)":"2026-08-26 22:33",
+    "Flooded Area (km2)":16.08,
+    "Exposed Population":7963,
+    "Exposed Cropland (ha)":715.5,
+    "Road Segments in Flood Zone":9020
+  },
+  {
+    "District":"East Champaran",
+    "Distance from Source (km)":366.4,
+    "Arrival Lag (hrs)":20.1,
+    "Estimated Arrival (local)":"2026-08-27 04:35",
+    "Flooded Area (km2)":0.69,
+    "Exposed Population":603,
+    "Exposed Cropland (ha)":22.7,
+    "Road Segments in Flood Zone":7314
+  },
+  {
+    "District":"Gopalganj",
+    "Distance from Source (km)":418.2,
+    "Arrival Lag (hrs)":23.2,
+    "Estimated Arrival (local)":"2026-08-27 07:44",
+    "Flooded Area (km2)":0.46,
+    "Exposed Population":170,
+    "Exposed Cropland (ha)":16.8,
+    "Road Segments in Flood Zone":12
+  },
+  {
+    "District":"Saran",
+    "Distance from Source (km)":500.7,
+    "Arrival Lag (hrs)":28.3,
+    "Estimated Arrival (local)":"2026-08-27 12:46",
+    "Flooded Area (km2)":95.83,
+    "Exposed Population":69487,
+    "Exposed Cropland (ha)":6867.9,
+    "Road Segments in Flood Zone":0
+  },
+  {
+    "District":"Muzaffarpur",
+    "Distance from Source (km)":575.9,
+    "Arrival Lag (hrs)":32.9,
+    "Estimated Arrival (local)":"2026-08-27 17:22",
+    "Flooded Area (km2)":1.27,
+    "Exposed Population":1005,
+    "Exposed Cropland (ha)":54.2,
+    "Road Segments in Flood Zone":0
+  },
+  {
+    "District":"Vaishali",
+    "Distance from Source (km)":627.2,
+    "Arrival Lag (hrs)":36.0,
+    "Estimated Arrival (local)":"2026-08-27 20:30",
+    "Flooded Area (km2)":21.39,
+    "Exposed Population":25839,
+    "Exposed Cropland (ha)":1815.8,
+    "Road Segments in Flood Zone":20175
+  },
+  {
+    "District":"Sitamarhi",
+    "Distance from Source (km)":730.8,
+    "Arrival Lag (hrs)":42.3,
+    "Estimated Arrival (local)":"2026-08-28 02:49",
+    "Flooded Area (km2)":0.14,
+    "Exposed Population":154,
+    "Exposed Cropland (ha)":13.9,
+    "Road Segments in Flood Zone":0
+  },
+  {
+    "District":"Sheohar",
+    "Distance from Source (km)":751.2,
+    "Arrival Lag (hrs)":43.6,
+    "Estimated Arrival (local)":"2026-08-28 04:03",
+    "Flooded Area (km2)":0.0,
+    "Exposed Population":0,
+    "Exposed Cropland (ha)":0.0,
+    "Road Segments in Flood Zone":0
+  },
+  {
+    "District":"Sonpur (Ganga confluence)",
+    "Distance from Source (km)":842.9,
+    "Arrival Lag (hrs)":49.2,
+    "Estimated Arrival (local)":"2026-08-28 09:39",
+    "Flooded Area (km2)":0.0,
+    "Exposed Population":0,
+    "Exposed Cropland (ha)":0.0,
+    "Road Segments in Flood Zone":0
+  }
+]

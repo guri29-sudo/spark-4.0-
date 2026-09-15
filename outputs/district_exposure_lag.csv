@@ -1,0 +1,10 @@
+District,Distance from Source (km),Arrival Lag (hrs),Estimated Arrival (local),Flooded Area (km2),Exposed Population,Exposed Cropland (ha),Road Segments in Flood Zone
+West Champaran,267.5,14.1,2026-08-26 22:33,16.08,7963,715.5,9020
+East Champaran,366.4,20.1,2026-08-27 04:35,0.69,603,22.7,7314
+Gopalganj,418.2,23.2,2026-08-27 07:44,0.46,170,16.8,12
+Saran,500.7,28.3,2026-08-27 12:46,95.83,69487,6867.9,0
+Muzaffarpur,575.9,32.9,2026-08-27 17:22,1.27,1005,54.2,0
+Vaishali,627.2,36.0,2026-08-27 20:30,21.39,25839,1815.8,20175
+Sitamarhi,730.8,42.3,2026-08-28 02:49,0.14,154,13.9,0
+Sheohar,751.2,43.6,2026-08-28 04:03,0.0,0,0.0,0
+Sonpur (Ganga confluence),842.9,49.2,2026-08-28 09:39,0.0,0,0.0,0
